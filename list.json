@@ -4,20 +4,23 @@
         "logo": "https://i.hizliresim.com/m5m0ddo.png",
         "title": "Controlly Services",
         "text": "You Have Complete Control of Social Media Services! Met Controlly Services, An App to Provide You with Account Statistics and Tips.",
-        "link": "https://controlly.me"
-    },
-    {
-        "image": "https://i.hizliresim.com/6xhvepp.png",
-        "logo": "https://i.hizliresim.com/juuejfa.png",
-        "title": "RabeLLand",
-        "text": "A Hub Server To Enjoy Minecraft With Lots Of Game Types In It.",
-        "link": "https://rabelland.net"
+        "link": "https://",
+        "language": "javascript"
     },
     {
         "image": "https://i.hizliresim.com/isgoyvh.png",
         "logo": "https://i.hizliresim.com/1fdzcw2.png",
         "title": "Spolist.app",
         "text": "Spolist is a Music Listening Plugin Application. Its main purpose is to bring you together with people who are similar to you in the types of music you listen to.",
-        "link": "https://spolist.app"
+        "link": "https://",
+        "language": "javascript"
+    },
+    {
+        "image": "https://i.hizliresim.com/8l1beu2.png",
+        "logo": "https://i.hizliresim.com/jpj45et.png",
+        "title": "WAGMI",
+        "text": "Soon..",
+        "link": "https://",
+        "language": "javascript"
     }
 ]
