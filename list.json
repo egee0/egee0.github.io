@@ -1,11 +1,21 @@
 [
     {
+        "image": "https://i.hizliresim.com/qbn1ehs.png",
+        "logo": "https://i.hizliresim.com/f0aqwgi.png",
+        "title": "Eternal",
+        "text": "A useful Discord bot targeted at addressing all servers and users.",
+        "link": "https://eternalbot.org",
+        "language": "javascript",
+        "date": "2023 - Now"
+    },
+    {
         "image": "https://i.hizliresim.com/m5m0ddo.png",
         "logo": "https://i.hizliresim.com/m5m0ddo.png",
         "title": "Controlly Services",
         "text": "You Have Complete Control of Social Media Services! Met Controlly Services, An App to Provide You with Account Statistics and Tips.",
         "link": "https://",
-        "language": "javascript"
+        "language": "javascript",
+        "date": "2021 - Now"
     },
     {
         "image": "https://i.hizliresim.com/isgoyvh.png",
@@ -13,7 +23,8 @@
         "title": "Spolist.app",
         "text": "Spolist is a Music Listening Plugin Application. Its main purpose is to bring you together with people who are similar to you in the types of music you listen to.",
         "link": "https://",
-        "language": "javascript"
+        "language": "javascript",
+        "date": "2022 - Now"
     },
     {
         "image": "https://i.hizliresim.com/8l1beu2.png",
@@ -21,6 +32,7 @@
         "title": "WAGMI",
         "text": "Saas Solution that Improves the Performance of E-sports Teams and Individual Players.",
         "link": "https://wagmigg.com",
-        "language": "javascript"
+        "language": "javascript",
+        "date": "2022 - 2023"
     }
 ]
